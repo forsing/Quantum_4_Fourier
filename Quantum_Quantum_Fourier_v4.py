@@ -21,9 +21,9 @@ np.random.seed(39)
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_2980.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_plus_1736.csv"),
+    Path("/data/loto7_4716_k89.csv"),
+    Path("/data/loto7_4716_k89_loto_2980.csv"),
+    Path("/data/loto7_4716_k89_loto_plus_1736.csv"),
 )
 
 
@@ -853,13 +853,13 @@ PROVERA: NEXT ponavlja poslednje kolo.
 
 
 loto7_4716_k89.csv
-NEXT: 6 12 17 25 29 31 34
+NEXT: 6 x 17 y 29 z 34
 
 loto7_4716_k89_loto_2980.csv
-NEXT: 12 14 17 18 26 33 34
+NEXT: 12 x 17 y 26 z 34
 
 loto7_4716_k89_loto_plus_1736.csv
-NEXT: 9 15 17 21 24 26 39
+NEXT: 9 x 17 y 24 z 39
 """
 
 
